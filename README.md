@@ -1,4 +1,4 @@
-!('munta banner')['banner_git.png']
+!['munta banner']('banner_git.png')
 !['bc']('images/business_case.png')
 !['motiv']('images/motivation.png')
 
